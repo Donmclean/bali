@@ -1,0 +1,2 @@
+# bali
+Personal Mac Setup
