@@ -1,7 +1,7 @@
 # Bali
 Personal Mac Setup
 
-# Core
+## Core
 
 - iTerm - https://www.iterm2.com/
 
